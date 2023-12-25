@@ -1,9 +1,9 @@
 
 {
-  "token": "Your Discord bot Token here", 
-  "EmbedFooter": "Any thing like the bot name and version",
-  "OwnerID": ["Here Your developer id"],
-  "prefix": "Any prefix here", 
-   "supportServer" :"Your support server link here",
-  "logChannel": "YOUR LOG CHANNEL ID HERE"
+  "token": "MTE4ODk2ODM1Njg3NTg3NDQwNA.GkQXIE._F61MwM2-CVPLnKn8DJhKwkKNAMC7D9_5s7DZI", 
+  "EmbedFooter": "memberBuy",
+  "OwnerID": ["1152971071788695562"],
+  "prefix": "!", 
+   "supportServer" :"https://svneag.co",
+  "logChannel": "1186465913139105885"
  }
